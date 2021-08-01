@@ -1,1 +1,1 @@
-# thekingcod.github.io
+THANK YOU 
