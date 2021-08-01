@@ -14,6 +14,6 @@
     "id_ads_banner_recovery": "ca-app-pub-3940256099942544/6300978111",
     "id_ads_full_main": "ca-app-pub-3940256099942544/1033173712",
     "id_ads_full_recovery": "ca-app-pub-3940256099942544/1033173712"
-hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
   }
 ]
