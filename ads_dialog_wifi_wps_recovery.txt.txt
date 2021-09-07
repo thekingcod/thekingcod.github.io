@@ -1,1 +1,1 @@
-free.teampro.wifipasswordrecovery
+net.wifi.connect
