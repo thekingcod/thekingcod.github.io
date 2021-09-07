@@ -4,28 +4,28 @@
     "title": "WiFi Password Recovery",
     "des1": "Best application",
     "des2": "List all wifi passwords saved in your device. This application will help you recover the password of a wireless network you have connected to with your device in the past.",
-    "url": "nouriapp.wps.test"
+    "url": "net.wifi.connect"
   },
   {
     "language": "vi",
     "title": "Xem mật khẩu WiFi — Miễn phí",
     "des1": "Ứng dụng tốt nhất",
     "des2": "Ứng dụng này sẽ giúp bạn khôi phục mật khẩu của mạng WiFi mà bạn đã kết nối với thiết bị của mình trong quá khứ.",
-    "url": "nouriapp.wps.test"
+    "url": "net.wifi.connect"
   },
   {
     "language": "pt",
     "title": "WiFi Senha — Visualizador de senha de WiFi",
     "des1": "Melhor aplicação",
     "des2": "Listar todas as senhas de Wi-Fi salvas no seu dispositivo. Esta aplicação irá ajudá-lo a recuperar a senha de uma rede sem fio que você conectou ao seu dispositivo no passado",
-    "url": "nouriapp.wps.test"
+    "url": "net.wifi.connect"
   },
   {
     "language": "th",
     "title": "โปรแกรมดูรหัสผ่าน WiFi",
     "des1": "โปรแกรมที่ดีที่สุด",
     "des2": "แอปพลิเคชันนี้จะช่วยคุณกู้รหัสผ่านของเครือข่ายไร้สายที่คุณเชื่อมต่อกับอุปกรณ์ของคุณในอดีต แอปนี้ไม่ได้ช่วยให้คุณสามารถแฮ็กรหัสผ่าน WiFi ได้",
-    "url": "nouriapp.wps.test"
+    "url": "net.wifi.connect"
   },
   {
     "language": "es",
@@ -39,13 +39,13 @@
     "title": "Показать пароль WiFi",
     "des1": "Лучшее применение",
     "des2": "Список всех паролей wifi, сохраненных на вашем устройстве. Это приложение поможет вам восстановить пароль беспроводной сети, с которой вы подключились в прошлом.",
-    "url": "nouriapp.wps.test"
+    "url": "net.wifi.connect"
   },
   {
     "language": "id",
     "title": "Tampilkan kata sandi WiFi",
     "des1": "Aplikasi terbaik",
     "des2": "Daftar semua kata sandi wifi yang tersimpan di perangkat Anda. Aplikasi ini akan membantu Anda memulihkan kata sandi dari jaringan nirkabel yang telah Anda hubungkan dengan perangkat Anda di masa lalu.",
-    "url": "nouriapp.wps.test"
+    "url": "net.wifi.connect"
   }
 ]
