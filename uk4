@@ -39,7 +39,7 @@
         "image": "https://img.gamemonetize.com/iethnkm9gt8fc2bgopavrw9zpg5ehmt6/512x384.jpg",
 		"color": "#FFFFFF",
         "text_size": "25",
-        "isLink": false,
+        "isLink": true,
 		"link_title": "PLAY GAME NOW",
 		"setLink": "https://html5.gamemonetize.co/iethnkm9gt8fc2bgopavrw9zpg5ehmt6/",
         "image_link": "",
