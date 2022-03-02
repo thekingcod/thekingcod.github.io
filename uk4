@@ -22,7 +22,7 @@
 
     "items": [
       {
-        "title": "Dark Meadow: The Pact",
+        "title": "WOGGY 1",
         "image": "https://usercontent2.hubstatic.com/6961601.jpg",
         "color": "#000000",
         "text_size": "25",
@@ -35,8 +35,8 @@
 		"background": "#2e86c1"
       },
       {
-        "title": "The Old 2",
-        "image": "https://usercontent1.hubstatic.com/8037694.jpg",
+        "title": "WOGGY 2",
+        "image": "https://img.gamemonetize.com/iethnkm9gt8fc2bgopavrw9zpg5ehmt6/512x384.jpg",
 		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": false,
