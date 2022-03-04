@@ -10,9 +10,9 @@
   {
     "net": "gg",
     "status": "1",
-    "id_ads_banner_main": "ca-app-pub-5955069339146088/3302708777",
-    "id_ads_banner_recovery": "ca-app-pub-5955069339146088/9026687050",
-    "id_ads_full_main": "ca-app-pub-5955069339146088/1315568631",
-    "id_ads_full_recovery": "ca-app-pub-5955069339146088/9081687051"
+    "id_ads_banner_main": "ca-app-pub-2179233276127209/5109158194",
+    "id_ads_banner_recovery": "ca-app-pub-2179233276127209/7735321536",
+    "id_ads_full_main": "ca-app-pub-2179233276127209/3796076528",
+    "id_ads_full_recovery": "ca-app-pub-2179233276127209/6116469173"
   }
 ]
