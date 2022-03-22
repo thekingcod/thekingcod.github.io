@@ -1,7 +1,7 @@
 [
   {
     "net": "fb",
-    "status": "1",
+    "status": "0",
     "id_ads_banner_main": "1559274641108118_1559276227774626",
     "id_ads_banner_recovery": "1559274641108118_1559815227720726",
     "id_ads_full_main": "1559274641108118_1559815304387385",
@@ -9,7 +9,7 @@
   },
   {
     "net": "gg",
-    "status": "0",
+    "status": "1",
     "id_ads_banner_main": "ca-app-pub-6580687507869234/5579168892",
     "id_ads_banner_recovery": "ca-app-pub-6580687507869234/7720288324",
     "id_ads_full_main": "ca-app-pub-6580687507869234/3781043311",
