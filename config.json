@@ -1,0 +1,27 @@
+{
+	"app": {
+	    "one_connect_api_key": "zCkS1XENQmrIDOvrmqVdV7JXHyo5ra1lg2PprMCQh8RiMLllrP",
+		"onesignal_app_id": "9080937897238978476892",
+		"privacy_policy_url": "https://www.rdtunnel.pro/p/rd-tunnel-pro-app-apk-privacy-download.html"
+		
+	},
+	"premium": {
+		    "base64_key": "Add_Your_Licence_Key_Here_From_Play_Console",
+		    "one_month_subscription_id": "monthly",
+		    "three_months_subscription_id": "threemonths",
+		    "one_year_subscription_id": "yearly1"
+	},
+	"ads": {
+	        "_comment": "place the following in the ad_type object. 'admob' for AdMob ads, 'facebookAudienceNetwork' for Facebook Audience Network ads or 'applovin' for AppLovin ads",
+	    	"ad_type": "facebookAudienceNetwork",
+	    	"admob_open_ad_id": "ca-app-pub-3940256099942544/3419835294",
+	    	"admob_banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
+	    	"admob_interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
+	    	"fan_banner_ad_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	    	"fan_interstitial_ad_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	    	"fan_native_ad_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	    	"applovin_banner_ad_id": "BANNER",
+	    	"applovin_interstitial_ad_id": "INTERSTITIAL",
+	    	"applovin_native_ad_id": "NATIVE"
+	}
+}
