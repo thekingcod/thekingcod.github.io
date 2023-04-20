@@ -40,12 +40,12 @@
     },
     "vpn": {
         "activate_vpn": true,
-        "vpn_username": "vpn",
-        "vpn_password": "vpn",
+        "vpn_username": "",
+        "vpn_password": "",
         "retry_vpn_counter": 1,
         "vpn_country": "USA",
         "serversList": [
-            "https://www.vpngate.net/api/iphone/"
+            "https://raw.githubusercontent.com/thekingcod/thekingcod.github.io/main/vpngate_public-vpn-153.opengw.net_tcp_443.ovpn"
         ]
       },
     "Guide": [
