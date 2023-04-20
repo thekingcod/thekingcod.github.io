@@ -40,12 +40,12 @@
     },
     "vpn": {
         "activate_vpn": true,
-        "vpn_username": "tC4yYTGVygKckSHkkh4E7CHp",
-        "vpn_password": "kj3FzUwVjwTnKjPHAv9b55vB",
+        "vpn_username": "vpn",
+        "vpn_password": "vpn",
         "retry_vpn_counter": 1,
         "vpn_country": "USA",
         "serversList": [
-            "https://json.irondev.center/irondev_vpn_servers/Japan/Tokyo.ovpn"
+            "https://www.vpngate.net/api/iphone/"
         ]
       },
     "Guide": [
