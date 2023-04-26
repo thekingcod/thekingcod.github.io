@@ -39,7 +39,7 @@
        
     },
     "vpn": {
-        "activate_vpn": true,
+        "activate_vpn": false,
         "vpn_username": "ncpapli5@namecheap",
         "vpn_password": "t3Z1HSNvSL",
         "retry_vpn_counter": 1,
