@@ -43,7 +43,7 @@
         "vpn_username": "ncpapli5@namecheap",
         "vpn_password": "t3Z1HSNvSL",
         "retry_vpn_counter": 1,
-        "vpn_country": "by med dev",
+        "vpn_country": "tube",
         "serversList": [
             "https://raw.githubusercontent.com/thekingcod/thekingcod.github.io/main/vpngate_public-vpn-153.opengw.net_tcp_443.ovpn",
            "https://leachy-moon.000webhostapp.com/1.ovpn",
