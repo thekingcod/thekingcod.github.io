@@ -40,8 +40,8 @@
     },
     "vpn": {
         "activate_vpn": true,
-        "vpn_username": "",
-        "vpn_password": "",
+        "vpn_username": "6jlGwbD6nDsXBW6z",
+        "vpn_password": "wifi;;;;",
         "retry_vpn_counter": 1,
         "vpn_country": "tube",
         "serversList": [
