@@ -1,3 +1,5 @@
 {
-  "show_button": true
+"show_button": false,
+  "show_search_video_online": false,
+  "show_browser_web": true
 }
