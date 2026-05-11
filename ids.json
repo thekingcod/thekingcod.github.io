@@ -3,7 +3,7 @@
   "show_search_video_online": true,
   "show_browser_web": true,
 
-  "ads_enabled": true,
+  "ads_enabled": false,
   "ads_provider": "admob",
 
   "admob_app_open_id": "ca-app-pub-3940256099942544/3419835294",
