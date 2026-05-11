@@ -4,7 +4,7 @@
   "show_browser_web": true,
 
   "ads_enabled": true,
-  "ads_provider": "admob",
+  "ads_provider": "max",
 
   "admob_app_open_id": "ca-app-pub-3940256099942544/3419835294",
   "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
