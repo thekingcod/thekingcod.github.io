@@ -3,20 +3,19 @@
   "show_search_video_online": true,
   "show_browser_web": true,
 
-  "ads_enabled": false,
-  "ads_provider": "max",
+  "ads_enabled": true,
+  "ads_provider": "admob",
 
-  "admob_banner_id": "ca-app-pub-xxxxxxxxxxxxxxxx/yyyyyyyyyy",
-  "admob_native_id": "ca-app-pub-xxxxxxxxxxxxxxxx/yyyyyyyyyy",
-  "admob_interstitial_id": "ca-app-pub-xxxxxxxxxxxxxxxx/yyyyyyyyyy",
-  "admob_rewarded_id": "ca-app-pub-xxxxxxxxxxxxxxxx/yyyyyyyyyy",
+  "admob_app_open_id": "ca-app-pub-3940256099942544/3419835294",
+  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
 
-  "applovin_sdk_key": "SghiT0Wn97nCEav7WlgwzQ2pQu31JL7XlWe0i9Gd97G_qz1FG3BJH3Oaeeamcl_xFpzww-fGqarhhPrFU-5rJ4",
+  "applovin_sdk_key": "YOUR_APPLOVIN_SDK_KEY",
+  "applovin_app_open_id": "YOUR_MAX_APP_OPEN_AD_UNIT_ID",
   "applovin_banner_id": "YOUR_MAX_BANNER_AD_UNIT_ID",
   "applovin_native_id": "YOUR_MAX_MREC_OR_NATIVE_AD_UNIT_ID",
   "applovin_interstitial_id": "YOUR_MAX_INTERSTITIAL_AD_UNIT_ID",
-  "applovin_rewarded_id": "YOUR_MAX_REWARDED_AD_UNIT_ID",
-
-  "fan_enabled": true,
-  "fan_placement_id": "OPTIONAL_ONLY_IF_NEEDED"
+  "applovin_rewarded_id": "YOUR_MAX_REWARDED_AD_UNIT_ID"
 }
