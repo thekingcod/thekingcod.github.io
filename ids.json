@@ -1,6 +1,6 @@
 {
   "show_button": true,
-  "show_search_video_online": true,
+  "show_search_video_online": false,
   "show_browser_web": true,
 
   "ads_enabled": true,
